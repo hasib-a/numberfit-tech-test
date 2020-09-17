@@ -2,7 +2,7 @@
 
 The code provided in the file ```main.py``` is a Python 3 script which takes in command line arguments to output a plot in matplotlib which looks similar to the image sent in the tech test.
 
-Now I have used Python, due to my familiarity with it. The job description lists Node.js experience, I have some experience in coding in Node.js and have created a couple of IoT Alexa voice skills using Node.js, but by no means is it my strongest language. This however does not mean I am not keen to learn it, as I have an aptitude for picking up new langauges and frameworks very quickly.
+I have used Python due to my familiarity with it. The job description lists Node.js experience, I have some experience in coding with Node.js as I have created a couple of IoT Alexa voice skills using Node.js. I am not keen to learn more Node.js if I am successful as I have an aptitude for picking up new langauges and frameworks very quickly.
 
 ### Prerequisites:
 Ensure you have Python 3 installed and two particular packages - numpy and matplotlib.
